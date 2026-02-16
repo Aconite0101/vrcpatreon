@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-16T23:08:10.034266",
+  "updated_at": "2026-02-16T23:26:26.339665",
   "server_name": "Aconite0101 's Works🚀",
   "server_id": "670305382287015964",
   "roles": {
@@ -28,44 +28,13 @@
     "VIP": {
       "role_id": "1472926316369150100",
       "role_name": "VIP",
-      "member_count": 2,
-      "members": [
-        {
-          "user_id": "575723088218423297",
-          "username": "tananaka01",
-          "display_name": "tananaka01",
-          "joined_server": "2021-04-18T07:34:43.288000",
-          "role_assigned_date": "2026-02-16T20:26:33.429731",
-          "first_tracked": "2026-02-16T20:26:33.429735",
-          "role_membership_duration": {
-            "total_days": 0,
-            "years": 0,
-            "months": 0,
-            "days": 0,
-            "formatted": "0d"
-          }
-        },
-        {
-          "user_id": "295816637175693312",
-          "username": "aconite0101",
-          "display_name": "aconite0101",
-          "joined_server": "2020-01-24T16:34:16.882000",
-          "role_assigned_date": "2026-02-16T20:57:02.378699",
-          "first_tracked": "2026-02-16T20:57:02.378703",
-          "role_membership_duration": {
-            "total_days": 0,
-            "years": 0,
-            "months": 0,
-            "days": 0,
-            "formatted": "0d"
-          }
-        }
-      ]
+      "member_count": 0,
+      "members": []
     },
     "Investor": {
       "role_id": "1472926324388794522",
       "role_name": "Investor",
-      "member_count": 2,
+      "member_count": 1,
       "members": [
         {
           "user_id": "551675720267595776",
@@ -74,21 +43,6 @@
           "joined_server": "2021-06-01T13:59:46.011000",
           "role_assigned_date": "2026-02-16T20:26:33.431746",
           "first_tracked": "2026-02-16T20:26:33.431750",
-          "role_membership_duration": {
-            "total_days": 0,
-            "years": 0,
-            "months": 0,
-            "days": 0,
-            "formatted": "0d"
-          }
-        },
-        {
-          "user_id": "295816637175693312",
-          "username": "aconite0101",
-          "display_name": "aconite0101",
-          "joined_server": "2020-01-24T16:34:16.882000",
-          "role_assigned_date": "2026-02-16T20:57:02.381733",
-          "first_tracked": "2026-02-16T20:57:02.381736",
           "role_membership_duration": {
             "total_days": 0,
             "years": 0,
