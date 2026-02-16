@@ -1,0 +1,28 @@
+{
+  "updated_at": "2026-02-16T20:09:28.112029",
+  "server_name": "Aconite0101 's Works🚀",
+  "server_id": "670305382287015964",
+  "roles": {
+    "Investor": {
+      "role_id": "1472926324388794522",
+      "role_name": "Investor",
+      "member_count": 1,
+      "members": [
+        {
+          "user_id": "551675720267595776",
+          "username": "llil_",
+          "display_name": "FM",
+          "joined_server": "2021-06-01T13:59:46.011000",
+          "first_tracked": "2026-02-16T20:07:37.843361",
+          "membership_duration": {
+            "total_days": 1721,
+            "years": 4,
+            "months": 8,
+            "days": 21,
+            "formatted": "4ปี 8เดือน 21วัน"
+          }
+        }
+      ]
+    }
+  }
+}
