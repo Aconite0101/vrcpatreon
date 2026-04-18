@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T19:29:50.291700",
+  "updated_at": "2026-04-18T20:29:50.415384",
   "server_name": "Aconite0101 's Works🚀",
   "server_id": "670305382287015964",
   "roles": {
@@ -16,11 +16,11 @@
           "role_assigned_date": "2026-02-16T20:26:33.427287",
           "first_tracked": "2026-02-16T20:26:33.427292",
           "role_membership_duration": {
-            "total_days": 60,
+            "total_days": 61,
             "years": 0,
             "months": 2,
-            "days": 0,
-            "formatted": "2mo 0d"
+            "days": 1,
+            "formatted": "2mo 1d"
           }
         }
       ]
@@ -44,11 +44,11 @@
           "role_assigned_date": "2026-02-16T20:26:33.431746",
           "first_tracked": "2026-02-16T20:26:33.431750",
           "role_membership_duration": {
-            "total_days": 60,
+            "total_days": 61,
             "years": 0,
             "months": 2,
-            "days": 0,
-            "formatted": "2mo 0d"
+            "days": 1,
+            "formatted": "2mo 1d"
           }
         }
       ]
